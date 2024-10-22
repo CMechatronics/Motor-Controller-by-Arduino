@@ -1,4 +1,3 @@
----
 
 The following code enables control of a DC motor, allowing it to start, stop, reverse, and have an emergency stop. 
 
@@ -13,5 +12,3 @@ The following components will be necessary:
 - OLED Screen
 - Infrared Sensor
 - 10-slot Encoder
-
----
